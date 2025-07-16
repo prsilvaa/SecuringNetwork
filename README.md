@@ -29,23 +29,23 @@
 <h2>Project Images</h2>
 
 <h3>Network Design</h3>
-<img src="topology.png" alt="Network Design Diagram" width="400">
+<img src="topology.png" alt="Network Design Diagram" width="600">
 <p>This image shows the network design created using Cisco Packet Tracer.</p>
 
 <h3>Gant Chart</h3>
-<img src="gantchart.png" alt="Gant Chart" width="400">
+<img src="gantchart.png" alt="Gant Chart" width="600">
 <p>Screenshot showing the Gant chart for the project.</p>
 
 <h3>Project Planning</h3>
-<img src="plan.png" alt="Project Planning" width="400">
+<img src="plan.png" alt="Project Planning" width="600">
 <p>Project Planning screenshot.</p>
 
 <h3>Project Development</h3>
-<img src="dev.png" alt="Project Development" width="400">
+<img src="dev.png" alt="Project Development" width="600">
 <p>Project Development screenshot.</p>
 
 <h3>Project Evaluation</h3>
-<img src="evalua.png" alt="Project Evaluation" width="400">
+<img src="evalua.png" alt="Project Evaluation" width="600">
 <p>Project Planning screenshot.</p>
 
 </body>
