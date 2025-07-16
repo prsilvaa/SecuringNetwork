@@ -29,20 +29,24 @@
 <h2>Project Images</h2>
 
 <h3>Network Design</h3>
-<img src="network_design.png" alt="Network Design Diagram" width="400">
+<img src="topology.png" alt="Network Design Diagram" width="400">
 <p>This image shows the network design created using Cisco Packet Tracer.</p>
 
-<h3>Firewall Configuration</h3>
-<img src="firewall_config.png" alt="Firewall Configuration Screenshot" width="400">
-<p>Screenshot showing the firewall rules configured using pfSense.</p>
+<h3>Gant Chart</h3>
+<img src="gantchart.png" alt="Gant Chart" width="400">
+<p>Screenshot showing the Gant chart for the project.</p>
 
-<h3>SIEM Setup</h3>
-<img src="siem_setup.png" alt="SIEM Setup" width="400">
-<p>LogRhythm SIEM setup in progress for monitoring network logs and threats.</p>
+<h3>Project Planning</h3>
+<img src="plan.png" alt="Project Planning" width="400">
+<p>Project Planning screenshot.</p>
 
-<h3>Penetration Testing Results</h3>
-<img src="pentest_results.png" alt="Penetration Testing Results" width="400">
-<p>Results from penetration testing using Kali Linux tools like Nmap and Metasploit.</p>
-Replace:
+<h3>Project Development</h3>
+<img src="dev.png" alt="Project Development" width="400">
+<p>Project Development screenshot.</p>
+
+<h3>Project Evaluation</h3>
+<img src="evalua.png" alt="Project Evaluation" width="400">
+<p>Project Planning screenshot.</p>
+
 </body>
 </html>
