@@ -1,4 +1,4 @@
-<h1>Capstone Project: Securing a Small Business Network </h1>
+<h1><a> <a href="https://github.com/prsilvaa" target="_blank"> Capstone Project: Securing a Small Business Network </a>  </h1>
   
 <h2>Project Objective</h2>
 <p>The objective of this four-month capstone project was to secure a small business network across all critical areas, including network security, compliance and operational security, threats and vulnerabilities, application, data and host security , and access control and identity management. The project involved planning, development, and evaluation phases, producing nearly 20,000 words of documentation.</p>
