@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<head>
-</head>
-<body>
 <h1>Capstone Project: Securing a Small Business Network </h1>
   
 <h2>Project Objective</h2>
@@ -57,4 +53,4 @@
     <p>Project Evaluation screenshot.</p>
 </div>
 
-</html>
+
