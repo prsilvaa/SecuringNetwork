@@ -30,31 +30,31 @@
 
 <div align="center">
     <h3>Network Design</h3>
-    <img src="topology.png" alt="Network Design Diagram" width="600">
+    <img src="topology.png" alt="Network Design Diagram" height="80%" width="80%">
     <p>This image shows the network design created using Cisco Packet Tracer.</p>
 </div>
 
 <div align="center">
     <h3>Gantt Chart</h3>
-    <img src="gantchart.png" alt="Gantt Chart" width="600">
+    <img src="gantchart.png" alt="Gantt Chart" height="80%" width="80%">
     <p>Screenshot showing the Gantt chart for the project.</p>
 </div>
 
 <div align="center">
     <h3>Project Planning</h3>
-    <img src="plan.png" alt="Project Planning" width="600">
+    <img src="plan.png" alt="Project Planning" height="80%" width="80%">
     <p>Project Planning screenshot.</p>
 </div>
 
 <div align="center">
     <h3>Project Development</h3>
-    <img src="dev.png" alt="Project Development" width="600">
+    <img src="dev.png" alt="Project Development" height="80%" width="80%">
     <p>Project Development screenshot.</p>
 </div>
 
 <div align="center">
     <h3>Project Evaluation</h3>
-    <img src="evalua.png" alt="Project Evaluation" width="600">
+    <img src="evalua.png" alt="Project Evaluation" height="80%" width="80%">
     <p>Project Evaluation screenshot.</p>
 </div>
 
