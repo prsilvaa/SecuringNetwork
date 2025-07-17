@@ -17,7 +17,6 @@
     <li>PuTTY for secure remote access.</li>
     <li>Kali Linux for penetration testing.</li>
     <li>Wireshark for network traffic analysis.</li>
-    <li>Firewall (pfSense) for network protection and segmentation.</li>
 </ul>
 
 <h2>Skills Gained</h2>
